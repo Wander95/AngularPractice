@@ -1,0 +1,8 @@
+:host{
+    margin-top: 2rem;
+    display: block;
+}
+
+mat-panel-title{
+    font-size: 1.5rem;
+}
